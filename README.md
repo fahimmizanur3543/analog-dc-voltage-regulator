@@ -4,9 +4,9 @@
 
 ## Overview
 
-This project focuses on the design and simulation of an adjustable DC voltage regulator intended for laboratory applications.
+This project focuses on the design and simulation of an adjustable DC voltage regulator intended for laboratory applications. The entire design and simulation process was carried out exclusively using PSpice 9.1.
 
-The primary objective is to develop a regulated DC power supply capable of providing an adjustable and stable output voltage using an operational amplifier-based feedback control system.
+The primary objective is to develop a regulated DC power supply for laboratory use that can provide an adjustable and stable output voltage.
 
 The circuit uses an operational amplifier as an error amplifier to compare the reference voltage with the feedback voltage and control a series pass transistor accordingly. This feedback mechanism helps maintain a stable output voltage under varying conditions.
 
@@ -26,7 +26,7 @@ The project emphasizes the practical application of analog electronics, operatio
 
 # Major Components and Concepts
 
-- **Operational Amplifier (μA741)** 
+- **Operational Amplifier (uA741)** 
 - **Zener Diode** 
 - **Diode Bridge Rectifier** 
 - **Filter Capacitors** 
@@ -35,7 +35,7 @@ The project emphasizes the practical application of analog electronics, operatio
 
 # Design Approach
 
-1. AC voltage transformation using an 18 V RMS secondary.
+1. AC voltage transformation to 18V RMS secondary.
 2. Full-wave rectification using a bridge rectifier.
 3. DC filtering using a capacitor.
 4. Generation of a reference voltage using a Zener diode.
@@ -47,8 +47,7 @@ The project emphasizes the practical application of analog electronics, operatio
 
 The complete circuit schematic was developed and simulated using PSpice 9.1.
 
-The design targets an adjustable DC output voltage of approximately 0–15 V, with an initial load-current design target of 0.3A max. 
-
+The design targets an adjustable DC output voltage ranging from approximately 0–15 V, with a maximum full-load current of 0.3 A.
 # Final Circuit Schematic
 
 ![Final Circuit Schematic](Final_circuit.png)
@@ -68,16 +67,16 @@ The design targets an adjustable DC output voltage of approximately 0–15 V, wi
 
 **Group 04**
 
-- Member 1 – MD. Fahim Mizanr
-- Member 2 – Md. Sazid Hossain
-- Member 3 – Rafia Akter
-- Member 4 – Shoyaib Istiyak Swagoto
-- Member 5 - Showmik Biswas
+- Member 1: MD. Fahim Mizanr
+- Member 2: Md. Sazid Hossain
+- Member 3: Rafia Akter
+- Member 4: Shoyaib Istiyak Swagoto
+- Member 5: Showmik Biswas
 
 
 ## Course / Context
 
-- **Course:** EEE 208
+- **Course:** EEE 208-Electronic Circuits II Laboratory
 - **Department:** Electrical and Electronic Engineering 
 - **University:** Bangladesh University of Engineering and Technology
 - **Academic Level:** Level 2, Term II
