@@ -56,7 +56,6 @@ The design targets an adjustable DC output voltage of approximately 0–15 V, wi
 *Note: Detailed simulation waveforms and measured output characteristics are available in the project report and presentation.*
 
 # Files
-
 | File | Description |
 |---|---|
 | `Final_circuit.png` | Final circuit schematic image |
@@ -69,11 +68,11 @@ The design targets an adjustable DC output voltage of approximately 0–15 V, wi
 
 **Group 04**
 
-- [Member 1 – MD. Fahim Mizanr]
-- [Member 2 – Md. Sazid Hossain]
-- [Member 3 – Rafia Akter]
-- [Member 4 – Shoyaib Istiyak Swagoto]
-- [Member 5 - Showmik Biswas
+- Member 1 – MD. Fahim Mizanr
+- Member 2 – Md. Sazid Hossain
+- Member 3 – Rafia Akter
+- Member 4 – Shoyaib Istiyak Swagoto
+- Member 5 - Showmik Biswas
 
 
 ## Course / Context
