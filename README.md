@@ -1,6 +1,6 @@
 # analog-dc-voltage-regulator
 
-**An adjustable analog DC voltage regulator designed and simulated using operational amplifiers and discrete electronic components in PSpice 9.1.**
+**An adjustable analog DC voltage regulator designed and simulated using operational amplifiers in PSpice 9.1.**
 
 ## Overview
 
@@ -67,7 +67,7 @@ The design targets an adjustable DC output voltage ranging from approximately 0â
 
 **Group 04**
 
-- Member 1: MD. Fahim Mizanr
+- Member 1: Md. Fahim Mizanr
 - Member 2: Md. Sazid Hossain
 - Member 3: Rafia Akter
 - Member 4: Shoyaib Istiyak Swagoto
