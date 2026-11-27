@@ -12,9 +12,8 @@ The circuit uses an operational amplifier as an error amplifier to compare the r
 
 The project emphasizes the practical application of analog electronics, operational amplifiers, voltage references, rectification, filtering, and feedback-based voltage regulation.
 
-## Specifications / Methodology
 
-### Design Specifications
+# Design Specifications
 
 | Parameter | Design Target |
 |---|---|
@@ -25,7 +24,7 @@ The project emphasizes the practical application of analog electronics, operatio
 | Initial Current Target | 0.3 A |
 | Simulation Software | PSpice 9.1 |
 
-### Major Components and Concepts
+# Major Components and Concepts
 
 - **Operational Amplifier (μA741)** 
 - **Zener Diode** 
@@ -34,7 +33,7 @@ The project emphasizes the practical application of analog electronics, operatio
 - **Series Pass Transistor** 
 - **Feedback Network and Comparator** 
 
-### Design Approach
+# Design Approach
 
 1. AC voltage transformation using an 18 V RMS secondary.
 2. Full-wave rectification using a bridge rectifier.
@@ -44,19 +43,19 @@ The project emphasizes the practical application of analog electronics, operatio
 6. Output regulation through a series pass transistor.
 7. Feedback-based voltage control and simulation in PSpice 9.1.
 
-## Results
+# Results
 
 The complete circuit schematic was developed and simulated using PSpice 9.1.
 
 The design targets an adjustable DC output voltage of approximately 0–15 V, with an initial load-current design target of 0.3A max. 
 
-### Final Circuit Schematic
+# Final Circuit Schematic
 
 ![Final Circuit Schematic](Final_circuit.png)
 
 *Note: Detailed simulation waveforms and measured output characteristics are available in the project report and presentation.*
 
-## Files
+# Files
 
 | File | Description |
 |---|---|
